@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Prajwal
+                                                                              # 👋 Hey, I'm Prajwal
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Student+%7C+Developer+%7C+Tech+Explorer;Learning+Something+New+Every+Day;Building+Ideas+Into+Projects;Python+%E2%80%A2+JavaScript+%E2%80%A2+Web+Development" alt="Typing SVG" />
