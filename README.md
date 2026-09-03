@@ -1,69 +1,63 @@
-<!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,123,0,245&height=220&section=header&text=WELCOME%20TO%20MY%20SPACE&fontSize=42&fontColor=00f5a0&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descAlign=50" width="100%" />
-</div>
+# GitHub UI/UX Redesign — Platinum × French Gray × Gunmetal
 
-<br/>
+## Objective
 
-<!-- BADGES & SOCIALS -->
-<div align="center">
-  <img src="https://img.shields.io/badge/Status-Building_%20%26_Learning-00f5a0?style=for-the-badge&labelColor=0b0f19&color=00f5a0" />
-  <img src="https://img.shields.io/badge/Theme-Electric_Glass-7b2cbf?style=for-the-badge&labelColor=0b0f19&color=7b2cbf" />
-  <img src="https://img.shields.io/badge/Focus-Open_Innovation-ffb703?style=for-the-badge&labelColor=0b0f19&color=ffb703" />
-</div>
+Redesign the GitHub UI/UX into a premium, modern, futuristic developer workspace.
 
-<br/>
+The design must feel:
 
-<!-- ABOUT SECTION -->
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>⚡ About Me</h3>
-        <ul>
-          <li>🔭 Currently working on unique open-innovation projects</li>
-          <li>🌱 Exploring advanced architecture & modern UI/UX design</li>
-          <li>💬 Ask me about web technologies, APIs, and creative code</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🛠️ Tech Stack</h3>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
+- Unique
+- Attractive
+- Professional
+- Minimal
+- Premium
+- Developer-focused
+- Dark and sophisticated
+- Visually different from the standard GitHub interface
 
-<br/>
+Do not simply apply a dark theme. Create a cohesive new design system using the supplied Platinum / French Gray / Gunmetal palette.
 
-<!-- DYNAMIC STATS CARDS (CUSTOM GLASS & NEON THEME) -->
-<div align="center">
-  <h2>📊 GitHub Analytics & Activity</h2>
-  
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=synthwave&bg_color=0b0f19&title_color=00f5a0&text_color=f0f6fc&icon_color=7b2cbf&border_color=252f48&hide_border=false" />
-  </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=synthwave&bg_color=0b0f19&title_color=00f5a0&text_color=f0f6fc&border_color=252f48&hide_border=false" />
-  </a>
-</div>
+---
 
-<br/>
+# 1. Color Palette
 
-<!-- STREAK STATS -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0B0F19&ring=00F5A0&fire=7B2CBF&currStreakLabel=00F5A0&border=252F48" alt="GitHub Streak" />
-</div>
+The entire application should use the following color system.
 
-<br/>
+| Purpose | Color | Hex |
+|---|---|---|
+| Dominant | Platinum | `#D3D0D5` |
+| Secondary | French Gray | `#A4A2AB` |
+| Accent | Gunmetal | `#292B39` |
+| Page Background | Deep Gunmetal | `#20222D` |
+| Elevated Surface | Gunmetal Surface | `#323442` |
+| Border | Soft Gray | `#6F707A` |
+| Primary Text | Soft White | `#F3F2F4` |
+| Secondary Text | Cool Gray | `#C0BEC5` |
+| Muted Text | Muted Gray | `#8F909A` |
+| Success | Muted Green | `#A9C2B0` |
+| Warning | Muted Gold | `#D0B98A` |
+| Error | Muted Red | `#C49A9F` |
 
-<!-- FOOTER ANIMATION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,123,0,245&height=100&section=footer" width="100%" />
-</div>
+Create global CSS variables:
+
+```css
+:root {
+  --platinum: #D3D0D5;
+  --french-gray: #A4A2AB;
+  --gunmetal: #292B39;
+
+  --background: #20222D;
+  --surface: #292B39;
+  --surface-elevated: #323442;
+
+  --border: rgba(211, 208, 213, 0.10);
+  --border-hover: rgba(211, 208, 213, 0.22);
+
+  --text-primary: #F3F2F4;
+  --text-secondary: #C0BEC5;
+  --text-muted: #8F909A;
+
+  --success: #A9C2B0;
+  --warning: #D0B98A;
+  --danger: #C49A9F;
+}
