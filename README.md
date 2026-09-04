@@ -178,7 +178,7 @@
 
 ### 🌌 Keep Learning. Keep Building. Keep Exploring. Keep Innovating New Ideas.
 
-** Curiosity by Prajwal**
+> **" Curious Prajwal."**
 
 </p>
 
