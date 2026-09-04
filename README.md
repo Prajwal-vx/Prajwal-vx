@@ -88,9 +88,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Prajwal-vx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Prajwal-vx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub stats for Prajwal-vx" title="GitHub stats for Prajwal-vx"/>
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Prajwal-vx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Prajwal-vx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top programming languages for Prajwal-vx" title="Top programming languages for Prajwal-vx"/>
 
 </p>
 
