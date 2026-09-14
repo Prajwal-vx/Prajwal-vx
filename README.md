@@ -237,11 +237,12 @@ alt="Most used languages"/>
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-vx"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-vx&theme=github-dark&hide_border=true"
     width="95%"
-    alt="GitHub Activity Graph"
+    alt="Prajwal's GitHub Activity Graph"
   />
 </p>
+
 
 ---
 
