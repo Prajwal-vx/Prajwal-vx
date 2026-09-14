@@ -161,7 +161,7 @@ FLOWFORGE
 
 <p align="center">
 
-<a href="https://github.com/Prajwal-vvx?tab=repositories">
+<a href="https://github.com/Prajwal-vx?tab=repositories">
 <img src="https://img.shields.io/badge/🔎%20EXPLORE%20ALL%20PROJECTS-111827?style=for-the-badge"/>
 </a>
 
@@ -227,7 +227,7 @@ src="https://github-readme-stats-fast.vercel.app/api?username=Prajwal-vvx&show_i
 alt="GitHub statistics"/>
 
 <img height="175"
-src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Prajwal-vvx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
+src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Prajwal-vx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
 alt="Most used languages"/>
 
 </p>
@@ -238,7 +238,7 @@ alt="Most used languages"/>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-vvx&bg_color=0D1117&color=00F7FF&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-vx&bg_color=0D1117&color=00F7FF&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
 
 </p>
 
@@ -336,7 +336,7 @@ into an experience.
 <p align="center">
 
 <a href="https://github.com/Prajwal-vx">
-<img src="https://img.shields.io/badge/GitHub-Prajwal--vx-111827?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Prajwal-vx-111827?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://portfolio-ofnn.vercel.app">
