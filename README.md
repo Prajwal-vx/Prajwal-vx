@@ -233,15 +233,18 @@ alt="Most used languages"/>
 </p>
 
 ---
-
 ## 🔥 `CODING ACTIVITY`
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-vx&bg_color=0D1117&color=00F7FF&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=BUILDING%20EVERY%20DAY"
-    width="95%"
-    alt="GitHub coding activity"
-  />
+
+  <a href="https://github.com/Prajwal-vx">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-vx&theme=react-dark&hide_border=true&area=true&custom_title=PRAJWAL%20%E2%80%A2%20CODING%20ACTIVITY"
+      width="95%"
+      alt="Prajwal's GitHub coding activity"
+    />
+  </a>
+
 </p>
 
 ---
