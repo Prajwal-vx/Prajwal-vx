@@ -1,187 +1,376 @@
+<div align="center">
 
-                                                                            
- <h1 align="center">   Hey, I'm Prajwal </h1>
- 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Student+%7C+Developer+%7C+Tech+Explorer;Learning+Something+New+Every+Day;Building+Ideas+Into+Projects;Python+%E2%80%A2+JavaScript+%E2%80%A2+Web+Development" alt="Typing SVG" />
-</p>
+# ⚡ PRAJWAL
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:06b6d4&height=180&section=header&text=PRAJWAL&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+### `Student` • `Developer` • `Builder` • `Tech Explorer`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=900&color=00F7FF&center=true&vCenter=true&width=850&lines=Turning+Ideas+Into+Working+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Breaking+%E2%80%A2+Improving;Python+%7C+JavaScript+%7C+Web+%7C+AI;Curiosity+is+my+favorite+framework." alt="Typing animation"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0e7490,100:06b6d4&height=200&section=header&text=PRAJWAL&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🧬 `WHO_AM_I`
 
-```text
-👨‍💻  Student
-🌱  Learning the latest technology
-🧠  Always trying to learn something new
-🎯  Turning ideas into real projects
-🐍  Fun fact: I thought Python was a snake
+```yaml
+name: Prajwal
+role: Student & Developer
+location: Nepal 🇳🇵
+mindset: "Learn → Build → Break → Fix → Repeat"
+
+currently:
+  - Exploring modern web development
+  - Improving Python
+  - Learning AI development
+  - Experimenting with UI/UX
+  - Building real-world projects
+
+mission:
+  "Turn random ideas into something people can actually use."
+
+fun_fact:
+  "I once thought Python was only a snake. 🐍"
 ```
 
-> **"I don't try to learn everything at once — I try to learn something every time."**
-
-### 🔥 Currently
-
-* 💻 Exploring modern web development
-* 🐍 Improving my Python skills
-* 🤖 Exploring AI & emerging technologies
-* 🎨 Experimenting with UI/UX and creative interfaces
-* 🚀 Building projects to learn by doing
+> ### `"I don't want to know everything. I want to keep discovering."`
 
 ---
 
-## 🌐 My Portfolio
+## 🛰️ `SYSTEM STATUS`
 
 <p align="center">
-  <a href="https://portfolio-ofnn.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
+
+| ⚙️ SYSTEM           |     STATUS    |
+| :------------------ | :-----------: |
+| 🧠 Learning Engine  |    `ONLINE`   |
+| 💻 Coding Mode      |    `ACTIVE`   |
+| 🚀 Project Engine   |   `RUNNING`   |
+| 🤖 AI Exploration   | `IN PROGRESS` |
+| ☕ Coffee Dependency |     `HIGH`    |
+| 🐛 Bugs             |      `∞`      |
+| 🔥 Curiosity        |  `UNLIMITED`  |
+
 </p>
 
 ---
 
-## 🧩 Tech Stack
+## 🌐 `MY DIGITAL SPACE`
 
 <p align="center">
 
-<a href="https://www.cprogramming.com/">
-<img src="https://skillicons.dev/icons?i=c" width="55"/>
+<a href="https://portfolio-ofnn.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" width="55"/>
+<a href="https://github.com/Prajwal-vvx">
+<img src="https://img.shields.io/badge/💻%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" width="55"/>
+<a href="mailto:prajwalu143@gmail.com">
+<img src="https://img.shields.io/badge/📩%20EMAIL-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" width="55"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/>
-</a>
-
-<a href="https://www.php.net/">
-<img src="https://skillicons.dev/icons?i=php" width="55"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="55"/>
-</a>
-
-<a href="https://www.adobe.com/products/photoshop.html">
-<img src="https://skillicons.dev/icons?i=photoshop" width="55"/>
+<a href="https://instagram.com/prajwal_______________7">
+<img src="https://img.shields.io/badge/📸%20INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 🧩 `TECH ARSENAL`
+
+### Languages
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Prajwal-vx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" alt="GitHub stats for Prajwal-vx" title="GitHub stats for Prajwal-vx"/>
+<img src="https://skillicons.dev/icons?i=c,python,js,php,html,css,mysql" />
 
-<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Prajwal-vx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" alt="Top programming languages for Prajwal-vx" title="Top programming languages for Prajwal-vx"/>
+</p>
+
+### Tools & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,nodejs,react,nextjs,flask,docker,linux" />
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
----
-
-## ⚡ Developer Mode
+## 🧠 `CURRENTLY EXPLORING`
 
 ```text
-┌─────────────────────────────────────────────┐
-│                PRAJWAL.exe                  │
-├─────────────────────────────────────────────┤
-│ Status        : ONLINE                      │
-│ Learning      : ALWAYS                      │
-│ Coffee        : REQUIRED                    │
-│ Bugs          : TOO MANY                    │
-│ Motivation    : 100%                        │
-│ Creativity    : ████████████████████ 100%   │
-│ Curiosity     : ∞                            │
-└─────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│                 LEARNING MATRIX                      │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  🐍 Python              ███████████████░░░  80%      │
+│  🌐 Web Development     ██████████████░░░░  75%      │
+│  ⚛️ React / Next.js     ███████████░░░░░░░  65%      │
+│  🤖 AI Development      ██████████░░░░░░░░  55%      │
+│  🐳 Docker              ███████░░░░░░░░░░░  40%      │
+│  🗄️ Backend Systems     █████████░░░░░░░░░  50%      │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+> Progress isn't a competition.
+> **The goal is to be better than yesterday.**
+
+---
+
+# 🚀 `PROJECT LAB`
+
+Instead of only showing technologies, I build things to understand them.
+
+### 🤖 AI & Automation
+
+```text
+JARVIS
+└── Personal AI Assistant
+    ├── Voice Interaction
+    ├── Tool Execution
+    ├── Memory
+    └── Automation
+```
+
+### 🛒 Full-Stack Applications
+
+```text
+E-COMMERCE
+└── Online Shopping Platform
+    ├── Products
+    ├── Cart
+    ├── Checkout
+    └── Orders
+```
+
+### ⚙️ Developer Experiments
+
+```text
+FLOWFORGE
+└── Intelligent Automation Pipeline
+    ├── Async Workflows
+    ├── API Orchestration
+    ├── Task Execution
+    └── Docker Infrastructure
+```
+
+<p align="center">
+
+<a href="https://github.com/Prajwal-vvx?tab=repositories">
+<img src="https://img.shields.io/badge/🔎%20EXPLORE%20ALL%20PROJECTS-111827?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 📡 `PROJECT RADAR`
+
+<p align="center">
+
+```text
+                    ┌──────────────┐
+                    │   PRAJWAL    │
+                    │   PROJECT    │
+                    │    CORE      │
+                    └──────┬───────┘
+                           │
+          ┌────────────────┼────────────────┐
+          │                │                │
+          ▼                ▼                ▼
+       🤖 AI            🌐 WEB          ⚙️ SYSTEMS
+          │                │                │
+          ▼                ▼                ▼
+     Assistants       Full Stack       Automation
+     Agents           Interfaces       Infrastructure
+```
+
+</p>
+
+---
+
+# 🧪 `HOW I LEARN`
+
+```python
+def developer_cycle():
+    idea = get_random_idea()
+    project = build(idea)
+
+    while not good_enough(project):
+        bug = find_bug(project)
+        understand(bug)
+        fix(bug)
+
+    publish(project)
+    learn_from_feedback()
+
+developer_cycle()
+```
+
+### My learning loop
+
+**Discover → Experiment → Build → Break → Debug → Understand → Repeat**
+
+---
+
+# 📊 `GITHUB COMMAND CENTER`
+
+<p align="center">
+
+<img height="175"
+src="https://github-readme-stats-fast.vercel.app/api?username=Prajwal-vvx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"
+alt="GitHub statistics"/>
+
+<img height="175"
+src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Prajwal-vvx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF"
+alt="Most used languages"/>
+
+</p>
+
+---
+
+## 🔥 `CODING ACTIVITY`
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwal-vvx&bg_color=0D1117&color=00F7FF&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="95%" alt="GitHub activity graph"/>
+
+</p>
+
+---
+
+# 🐍 `CONTRIBUTION MATRIX`
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+alt="GitHub contribution snake"/>
+
+</p>
+
+---
+
+# 🏆 `ACHIEVEMENT MODE`
+
+```text
+╔══════════════════════════════════════════════════════╗
+║                    PRAJWAL.exe                       ║
+╠══════════════════════════════════════════════════════╣
+║                                                      ║
+║  LEVEL        : Developer                           ║
+║  XP           : █████████████████░░░                ║
+║  MODE         : BUILD                               ║
+║  STACK        : Python + Web + AI                   ║
+║  CURIOSITY    : ∞                                   ║
+║  IDEAS        : UNLIMITED                            ║
+║  BUGS         : MANY                                ║
+║  GIVING UP    : DISABLED                            ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 `2026 MISSION CONTROL`
+
+| Mission                                 | Status |
+| :-------------------------------------- | :----: |
+| 🐍 Become stronger in Python            |   🔄   |
+| 🤖 Build useful AI systems              |   🔄   |
+| 🌐 Master modern full-stack development |   🔄   |
+| 🚀 Launch unique projects               |   🔄   |
+| 🧠 Understand systems, not just syntax  |   🔄   |
+| 🌎 Build something people remember      |   ♾️   |
+
+---
+
+# 💡 `DEVELOPER PHILOSOPHY`
+
+<div align="center">
+
+### **BUILD SMALL. THINK BIG. KEEP EXPERIMENTING.**
+
+> `Every project teaches something.`
+> `Every bug hides a lesson.`
+> `Every failed attempt adds experience.`
+> `Every new technology opens another door.`
+
+</div>
+
+---
+
+# 🌌 `BEYOND CODE`
+
+```text
+I like exploring the space between:
+
+        CODE × DESIGN × AI × CREATIVITY
+
+Because software isn't only about writing code.
+
+It's about turning an idea
+into an experience.
+```
+
+---
+
+# 👾 `CURRENT QUEST`
 
 <p align="center">
 
-| Goal                     | Progress |
-| :----------------------- | :------: |
-| 🐍 Master Python         |    🔄    |
-| 🌐 Build Better Websites |    🔄    |
-| 🤖 Learn AI Development  |    🔄    |
-| 🚀 Build Unique Projects |    🔄    |
-| 🧠 Learn New Technology  |    ♾️    |
+### ⚡ Building things that make me say:
+
+### `"Wait... I actually made this?"`
 
 </p>
 
 ---
 
-## 💡 Featured Philosophy
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🌎 Connect With Me
+## 🌎 `CONNECT`
 
 <p align="center">
 
 <a href="https://github.com/Prajwal-vvx">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Prajwal--vvx-111827?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://portfolio-ofnn.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://instagram.com/prajwal_______________7">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
 <a href="mailto:prajwalu143@gmail.com">
-<img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-## 👀 Profile Visitors
+## 👀 `VISITORS`
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prajwal-vvx&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge" />
+
+<img src="https://komarev.com/ghpvc/?username=Prajwal-vvx&label=PROFILE%20VISITS&color=06b6d4&style=for-the-badge"/>
+
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-### 🌌 Keep Learning. Keep Building. Keep Exploring. Keep Innovating New Ideas.
+### 🌌 KEEP LEARNING • KEEP BUILDING • KEEP EXPLORING
 
-> **" Curious Prajwal."**
+### `Curious Prajwal. ⚡`
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:111827,100:020617&height=130&section=footer"/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:111827,100:0f172a&height=120&section=footer"/>
-</p>
+</div>
