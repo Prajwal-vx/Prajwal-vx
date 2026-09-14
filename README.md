@@ -335,8 +335,8 @@ into an experience.
 
 <p align="center">
 
-<a href="https://github.com/Prajwal-vvx">
-<img src="https://img.shields.io/badge/GitHub-Prajwal--vvx-111827?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Prajwal-vx">
+<img src="https://img.shields.io/badge/GitHub-Prajwal--vx-111827?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://portfolio-ofnn.vercel.app">
@@ -359,7 +359,7 @@ into an experience.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Prajwal-vvx&label=PROFILE%20VISITS&color=06b6d4&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Prajwal-vx&label=PROFILE%20VISITS&color=06b6d4&style=for-the-badge"/>
 
 </p>
 
