@@ -223,7 +223,7 @@ developer_cycle()
 <p align="center">
 
 <img height="175"
-src="https://github-readme-stats-fast.vercel.app/api?username=Prajwal-vvx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"
+src="https://github-readme-stats-fast.vercel.app/api?username=Prajwal-vx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"
 alt="GitHub statistics"/>
 
 <img height="175"
@@ -336,7 +336,7 @@ into an experience.
 <p align="center">
 
 <a href="https://github.com/Prajwal-vx">
-<img src="https://img.shields.io/badge/GitHub-Prajwal-vx-111827?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Prajwal--vx-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - Prajwal-vx"/>
 </a>
 
 <a href="https://portfolio-ofnn.vercel.app">
